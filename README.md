@@ -1,7 +1,7 @@
 # Prompt Studio
 
 A lightweight, offline-first desktop GUI for managing a CSV library of prompt "roles", composing/running prompts against multiple LLM backends (OpenAI API, Ollama, LM Studio), auto-categorizing prompts, and building runnable drag-and-drop prompt workflows.
-
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/AhmadMansy/prompt-studio-app/blob/main/prompt_studio_screenshot.png)?raw=true)
 ## Features
 
 - **Prompt Manager & Launcher**: Import from CSV, browse with categories/tags, search/filter, CRUD operations, favorites, and history
